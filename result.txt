@@ -1,0 +1,60 @@
+1. WATER QUALITY INDEX OF RIVER CAUVERY IN TIRUCHIRAPPALLI DISTRICT, TAMILNADU - 
+None
+
+2. Effective Control of Marine Biofouling - 2022
+None
+
+3. Short Communication on Diversity and Distribution of Hard Fouling Phylum Arthropoda and Mollusks in Various Substratums at The South-East Coast of Cuddalore, Tamilnadu, India - 2022
+None
+
+4. Short Communication Diversity and Distribution of Hard Fouling Phylum Arthropoda and Mollusks in Various Substratums at The South-East Coast of Cuddalore, Tamilnadu, India - 2022
+None
+
+5. Species composition and distribution of marine foulers along the southeast coast of Tamilnadu, India - 2020
+Present study was conducted to assess the diversity of faunal foulers and their distribution along the southeast coast of India. Grab and colonization sampling methods were employed. There were 14 families of faunal foulers with 28 species. Among the families, Bacillaceae constituted 31% and Mytilidae, 10%, Aeromonadaceae, 6% and Archaeobalanidae, 3%. Families numbering eight contributed to the macro faunal fouling community and the others, micro fouling community. According to the IUCN red data book, the observed faunal fouling organisms do not come under any red list category. Another striking feature was that 20% of the recorded species were alien invasive species. This study will be helpful to the policymakers, coastal developers, researchers, fishermen, sea-based industries and government authorities, as the fouling communities pose innumerable problems in the coastal developmental activities.
+
+6. Molecular Docking and Statistical Assessment of the Macroalgae of Halimeda Species against Marine Macro Fouler Mytilus galvoprovinces (4CN8) - 2020
+None
+
+7. First Report on in-silico Analysis of Halimeda SPP against Breast Cancer (BRCA1) and its Evolutionary Relation - 2020
+None
+
+8. POTENTIAL IMPACTS OF VARIOUS COASTAL LOCALES ON THE PHYTOCHEMICAL LANDSCAPE IN SAND DUNE FLORA CALOTROPIS GIGANTEAWHITE ACROSS THE COLEROON VALLEY - 2019
+Calotropis gigantea has been well recognized as sand dune flora in the conservation aspect of coastal biota. However, little is known about the eco-geographical diversities in the phytochemical composition of white floral variety. The present study deals with gas chromatography mass spectrometry (GC-MS) phytochemical profiling in methanol extracts of white flower collected from seven different coastal locations across Coleroon valley. The intraspecific diversity was observed in 37 phytoconstituents whereas 23 common profiles were found in C. gigantea white. The most dominant classes were found as alcohols, terpenoids, fatty acid esters, aliphatic hydrocarbons, and amines. The major common peaks included n-hexadecanoic acid and glycerin (13.2%), A’-neogammacer-22 (29)-en-3-ol, acetate,(3. beta., 21. beta.)(10.42%), 12-oleanen-3-yl acetate,(3. alpha.)-(10.28%), Hop-22 (29)-en-3-ol, acetate,(3. beta.)-(9.83%),. beta.-Amyrin (7.53%), 3-ethoxy-1, 2, propane-diol (15.82%) and ethyl Oleate (7.07%). The location-specific compounds such as erythritol, tetrahydrocannabinol carbonic acid-D3-HFBAPFPOH-derivative (THC), 1-nitro-propanol, oleic acid, Urs-20-en-3-ol,(3. beta. 18. alpha. 19. alpha), thiodiglycol, mercaptamine were obtained with major peaks from the respective locations (L1-L7). To the best of our knowledge, this is the first screening study in coastal white vegetation respective of various locations and the first report of a psychoactive compound THC with 98.28% peak area in gigantea species. From this preliminary approach, we found richness in diversified and common phytochemicals that may uncover the biological …
+
+9. DISPARITIES AND SIMILARITIES IN THE PHYTOCHEMICAL PROFILING OF WHITE CALOTROPIS GIGANTEALEAVES AMASSED FROM SIX COASTAL LOCALES ACROSS COLEROON DELTA - 2019
+Calotropis gigantea white is a medicinal shrub principally utilized by the rural population from the traditional period. The plant can grow in numerous environments such as fresh and saline water terrestrial plains notably most abundant in the sand dune associated coastal areas. However, the eco-geographical divergences and commonalities in the phytochemical composition of white gigantea leaves remain largely unexplained. In this context, the present study is aimed to identify the bioactive compounds present in the methanol leaf extract by using gas chromatography-mass spectrometry (GC-MS) analysis. The disease-free healthy leaves of the plant were collected from six different coastal locations across the Coleroon delta. The phytochemical analysis revealed the most abundant location-specific and common components among all locations. The predominance of alkanes, alkenes, heterocycles, alcohol, and silicon derivatives were also observed in the preliminary screening based on their functional groups. To the best of our knowledge, this is the first attempt to screen phytochemicals from the leaves of coastal white vegetation of C. gigantea among various locations across natural habitats Further investigations are required for the comparative study of bioactive metabolites to establish the medicinal values of white gigantea leaves in ecological aspects.
+
+10. Distribution of macro-flora in CAS marine biology campus, southeast coast of Cuddalore, Tamil Nadu, India - 2019
+The present study provides account of the angiosperms of CAS in Marine Biology campus, Parangipettai taluk, Cuddalore district in Tamil Nadu state at India. The Cuddalore district which comes under the coastal region of Tamilnadu is one of the important areas in the state as far as plant distribution is concerned. The extensive survey of the area conducted during 2017-2019, it is result in total of 110 species belonging to 92 genus under 48 families. Out of these, 95 species under 78 genera from 42 families belong to dicotyledons and 15 species under 14 genera from 5 families belongs to monocotyledons. From this study, 36 trees, 14 Shrubs, 48 Herbs and 12 climbers are come under 110 species. Fabaceae (9 spp.) comprises of the maximum number of species, followed by Euphorbiaceae (7 spp.), Apocynaceae (5 spp.), Malvaceae (5 spp.), Amaranthaceae; Caesalpiniaceae; Lamiaceae; Phyllanthaceae; Solanaceae are (4 spp.) and other families are occupied 3, 2 and 1. Some of the largest genera in the area are Fabaceae (8 spp.), Euphorbiaceae (7 spp.), Apocynaceae (5 spp.), Caesalpiniaceae (4 spp.) and other families are 3, 2 and 1. The entire campus is chiefly dominated by Mangrove trees such as Rhizophora mucuronata Lam,
+
+11. Antimicrofouling activity of Calotropis gigantea (L). R. Br. - 2019
+Milkweed or Calotropis gigantea belongs to Asclepiadaceae family having many curative principles in it. This present work aimed to study the phytochemicals prevailing in the Calotropis gigantea during the summer season by GCMS method and some of these phytochemicals tested against the collagen-binding matrix protein (4CN8) produced by the bacterial foulant through computational method. The result of GCMS analysis revealed that the prevalence of stigmasterol, alpha-amyrin, urs-12-en-24-oic acid, 3-oxo-, methyl ester, (+)-, 2(1H) Naphthalenone, 3,5,6,7,8, 8a-hexahydro-4, 8a-dimethyl-6-(1-ethylethenyl)-, Beta.-Amyrin, Bicyclo [3.1.1] heptane,2,6,6-trimethyl-, 1R-(1.alpha., 2.beta., 5.alpha.) -and 1H-Indene, 5-butyl-6-hexyloctahydro-, 2-[3-(4-tert-Butyl-phenoxy)-2-hydroxy-propylsulfanyl]-4,6-dimethyl-nicotinonitrile and cyclopropane carboxamide, 2-cyclopropyl-2-methyl-N-(1-cyclopropylethyl)- and pyridine-3-carboxamide, oxime, N-(2-trifluoro methyl phenyl). The in silico study exhibited that all the screened phytochemicals are having remarkably good interaction with the tested 4CN8 and possessing-8 to-11 Kcal/mol docking energy except pyridine-3-carboxamide, oxime, N-(2-trifluoromethylphenyl). Hence, the phytochemicals of Calotropis is a right candidate for further elaborate study to establish an eco-friendly alternative to existing toxic antifouling chemicals.
+
+12. "Diversity of macro flora in Parangipettai coastal environment, southeast coast of India". - 2019
+None
+
+13. BOOK- Laboratory Safety and First aid Procedure - 2019
+None
+
+14. SEASONAL DISCREPANCIES OF SOME TERPENES IN THE MILKWEED CALOTROPIS GIGANTEA (L.) R. BR. - 2018
+None
+
+15. Comparison of  essential and non essential elements  in  a widely growing milk weed plant  with its  rhizosphere - 2018
+None
+
+16. REVIEW ON A POTENTIAL HERB CALOTROPIS GIGANTEA (L.) R. BR. - 2013
+The beginning of civilization, human beings have worshiped plants and such plants are conserved as a genetic resource and used as food, fodder, fibre, fertilizer, fuel, febrifuge and in every other way. Calotropis gigantea is one such plant. In this review the systematic position, vernacular names, vegetative characters, Ecology and distribution, phytochemistry and the economical values of the Calotropis gigantea are discussed.
+
+17. PHYTOCHEMICAL ASSESSMENT ON VARIOUS EXTRACTS OF CALOTROPIS GIGANTEA (L.) R. BR. THROUGH GC-MS - 2013
+None
+
+18. COMPUTATIONAL SELECTIONS OF TERPENES PRESENT IN THE PLANT CALOTROPIS GIGANTEA AS MOSQUITO LARVICIDE’S BY BLOCKING THE STEROL CARRYING PROTEIN, AESCP-2 - 2012
+The present study reports the phytochemical properties of Calotropis gigantea (Asclepiadaceae) commonly known as milk weed. In addition, in silico docking analysis was also carried out to assess the mosquito larvicidal potential of three terpene compounds isolated from C. gigantea. Considerable amount of primary metabolites, essential macro and micro nutrients were documented in the plant. The GC-MS analysis of the chloroform extract revealed the presence of eight terpenes in the plant. From the docking studies it is evident that?-amyrin has a great potential against AeSCP-2. The phytochemical screening and docking results gives strong baseline information for the posterity.
+
+19. IN-SILICO DOCKING ANALYSIS OF Calotropis gigantea (L.) R. BR DERIVED COMPOUND AGAINST ANTI-CERVICAL CANCER ACTIVITY - 2012
+The present study reports the phytosterols present in the aerial part of the plant Calotropis gigantea (Asclepiadaceae) commonly known as milk weed. In addition to this an in silico docking analysis was also carried out to validate the anti-potential of these phytosterol compounds. The GC-MS analysis of the chloroform extract revealed the presence of eight sterols namelys 9, 19-Cyclolanost-24-en-3-ol, acetate; Campesterol; Stigmasterol; gamma-Sitosterol; Desmosterol; Stigmasta-5, 24 (28)-dien-3-ol,(3. beta., 24Z)-; Ergost-22-en-3-0l,(3. beta., 5. alpha., 22E, 24R)-; Ergost-8, 24 (28)-dien-3-ol, 4, 14-dimethyl,(3. beta., 4. alpha., 5. alpa.,). The docking analysis showed that all the sterol compounds showed the docking energy in the range of-12 to-16 Kcal/mol. The desmosterol exhibits the higher docking energy, showing the maximum potential against the HPV16 E6 cervical oncoprotein.
+
+20. ANTI-FUNGAL ACTIVITY OF LEPTADENIA RETICULATA IN RAT ANIMAL MODEL IN VIVO - 2008
+Leptadenia reticulata is a small erect or twining shrub belongs to family Asclepiadaceae and it is used as a medicine for various ailments. An attempt was made in this work to study the ethanolic extract (50%) of aerial part of the plant material was subjected to screen antifungal activity against the Aspergillus flavus in rat animal model invivo. In the present work the open wound infected with A. flavus was treated with L. reticulata extract for 8 days. This treated wound showed visible healing sign and the swab made from the healing wound region showed absence of the fungal hyphae. But in the infected but untreated group the wound was progressed and the animal was in distress and could account for 40% mortality within 8-days. The swab made from the wound region of the survived rats showed the presence of A. flavus hyphae. In the treated group WBC, Polymorphs and lymphocytes count were increased and eosinophylls count was reduced when compared to untreated group. From this result we conclude the ethanolic extract of L. reticulata posses antifungal activity against to the A. flavus.
+

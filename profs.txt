@@ -1,0 +1,527 @@
+Name: Amit Sheth
+Designation: Professor of Practice, Plaksha University
+Area of Expertise:
+Inclusive Design & Design Thinking
+Research Interests:
+>Design Thinking
+>Universal Design
+>Wayfinding and Signage Design
+Education:
+>M.Phil. in Industrial Design Inclusive Design, IIT Bombay
+Past Associations:
+>Dean of Advancement and Professor, Anant National University, Ahmedabad
+>Founder Head and Professor of the Department of Design, Nirma University, Ahmedabad
+>Adjunct Professor, IIT Gandhinagar
+>Adjunct Professor, National Rail & Transportation Institute, Vadodara
+
+Name: Dr. Aditya Malik
+Designation: Professor, Plaksha University
+Area of Expertise:
+Anthropology, History, Religious Studies, Philosophy
+Research Interests:
+>Anthropology, Religion and History
+>Narrative, Performance and Ritual
+>Oral Traditions and Folk Culture
+>Religion, Justice and Law
+Education:
+>D.Phil. in History of Religions of South Asia, Indian History and Sanskrit, Heidelberg University, Germany
+﻿Past Associations:
+>Vice-Chancellor, K.R. Mangalam University
+>Founding Professor and Dean, School of Historical Studies, Nalanda University
+>Professor, School of Social and Political Sciences, University of Canterbury
+
+Name: Dr. Amrik Sen
+Designation: Assistant Professor, Plaksha University
+Area of Expertise:
+Applied Mathematics
+Research Interests:
+>Fluid mechanics and turbulence
+>Perturbation theory and asymptotic methods to solve PDEs
+>High performance computing
+>Mathematical modeling of complex physical systems
+Education:
+>Ph.D. in Applied Mathematics, University of Colorado, Boulder, USA
+Past Associations:
+>Assistant Professor, School of Mathematics, Thapar Institute of Engineering and Technology
+>Post Doctoral Scientist, TIFR Center for Interdisciplinary Sciences
+>Post Doctoral Scientist, California State University
+
+Name: Dr. Amruta R Behera
+Designation: Assistant Professor, Plaksha University
+Area of Expertise:
+MEMS Technology, IOT systems
+﻿Education:
+>Ph.D. in Nano Science and Engineering, Indian Institute of Science, Bangalore
+
+Name: Dr. Anupam Sobti
+Designation: Assistant Professor, Plaksha University
+Area of expertise:
+- Applied Machine Learning
+- Embedded Systems/IoT
+Research Interests:
+- Low-cost health diagnostics
+- Smart Agriculture
+- Sustainability Sensing for buildings, rivers, forests, etc.
+Education:
+-:
+- MTech, Microelectronics, BITS Pilani
+- BTech, ECE, NSUT Delhi
+Past associations:
+- Postdoc Researcher at Microsoft Research India
+- PT (Product and Test) Engineer, Qualcomm India
+
+Name: Dr. Brainerd Prince
+Designation: Director, Centre for Thinking, Language and Communication
+Designation: Associate Professor of Practice, Plaksha University
+Area of Expertise:
+>Dialogical Hermeneutics
+>Philosophy
+>Religious Studies
+>Philosophy of Language
+Research Interests:
+>Phenomenological Hermeneutics
+>Philosophy and Practice of Education and Research
+>Academic Study of Hinduism
+>Philosophy of Religion
+Education:
+>PhD in Hermeneutics of Tradition and Aurobindo’s Integral Philosophy, OCMS, Oxford – Middlesex University, London
+Past Associations:
+>Research Tutor, Oxford Centre for Mission Studies, Oxford
+>Research Fellow, Oxford Centre for Hindu Studies, Oxford
+>Research Dean, Ecole Hoteliere at Lavasa, Lavasa
+
+Name: Dr. Chaitanya Lekshmi Indira
+Designation: Associate Professor, Plaksha University
+Area of Expertise:
+Functional Nanomaterials and Electron transport Analysis
+Research interests:
+>Nanostructured materials & composites
+>Structure-property correlations
+>Electrochemical & optical sensing
+>Biosensors
+>Photo-electro(catalysis)
+>Gas conversion reactions
+>Water security
+>Point-of-care health
+>Nanoelectronics
+>Magneto-dielectrics
+Education:
+MS and PhD in Chemistry, Indian Institute of Science, Bengaluru
+Past Associations:
+>Visiting Scientist, FBML, Massachusetts Institute of Technology, USA
+>Postdoctoral Researcher, CNRS-National Nanotechnology Laboratory, Italy
+>Assistant Professor, Amrita Institute of Medical Science & Research, Kochi
+>Associate Professor, CMR Institute of Technology, Bengaluru
+
+Name: Dr. Dhiraj Sinha
+Designation: Assistant Professor, Plaksha University
+Research Interests:
+>Microelectromechanical systems (micromachines, sensors and actuators)
+>Ultra-small antenna design for cellular technologies
+>Thermodynamics and electromagnetic field effects in microscopic systems with low dimensions
+Education:
+>Ph.D. in Electrical Engineering, University of Cambridge, UK
+Past Associations:
+>Postdoctoral Research Associate, Massachusetts Institute of Technology
+>Research Fellow, Singapore University of Technology and Design
+>CTO of Smantenna Ltd
+
+Name: Dr. K. Gopinath
+Designation: Professor, Plaksha University
+Area of Expertise:
+Systems research: OS, security
+Research Interests:
+>Operating Systems
+>Cybersecurity and Privacy
+>Applied AI (for computer systems and for societal good)
+Education:
+>Ph.D., Stanford University, USA
+Past Associations:
+>Professor, Computer Science & Automation, Indian Institute of Science, Bangalore (till July 31, 2021)
+
+Name: Dr. Kriti Khanna
+Designation: Assistant Professor, Plaksha University
+Area of Expertise:
+Financial Development, Macroeconomics
+Research Interests:
+>Macroeconomics
+>Entrepreneurship
+>Development Economics
+Education:
+>Ph.D. in Economics, University of Houston, USA
+﻿Past Associations:
+>Lecturer, University of Houston
+
+Name: Dr. Manoj Kannan
+Designation: Associate Dean, Student Life, Plaksha University
+Designation: Associate Professor, Plaksha University
+Area of Expertise:
+Discipline-based education research
+Research Interests:
+>Discipline-based education research
+>Fink’s Taxonomy of Significant Learning
+>Epigenetics
+Education:
+>Ph.D. in Genetics, BITS Pilani
+Past Associations:
+>Assistant Professor, BITS Pilani
+>Doctoral Researcher, National Cancer Institute, Frederick
+
+Name: Dr. Monika Sharma
+Designation: Assistant Professor, Plaksha University
+Area of Expertise:
+Computational biophysics, bioinformatics
+Research Interests:
+>Molecular Simulations
+>Essential dynamics
+>Free energy calculations
+>Membrane transporters Modeling
+>Computer Assisted Drug Designing
+>Computational Biology/ Chemistry
+>Bioinformatics
+>Network Analysis
+Education:
+>Ph.D. in Computational Natural Sciences, IIIT Hyderabad, India
+Past Associations:
+>SERB Research Scientist and INSPIRE Faculty, Chemical Science, IISER Mohali
+>Postdoctoral Fellow, NINDS, National Institute of Health (NIH), Bethesda
+>Postdoctoral Fellow, Biochemistry and Molecular Biology, Michigan State University
+>DAAD Fellow, Max Planck Institute of Biophysical Chemistry
+
+Name: Dr. Nandini Kannan
+Designation: Dean of Academics & Director of Data Science Institute, Plaksha University
+Designation: Professor, Plaksha University
+Area of Expertise:
+>Statistical Signal Processing
+>Reliability
+Research Interests:
+>Survival Analysis and Competing Risk models
+>Direction of Arrival Estimation
+>Sampling
+>Multivariate Analysis
+Education:
+>Ph.D. in Statistics, The Pennsylvania State University, PA, USA
+Past Associations:
+>Executive Director, Indo U.S. Science and Technology Forum, New Delhi (2019-2022)
+>Program Director, National Science Foundation (2014-2022)
+>Professor, University of Texas at San Antonio
+
+Name: Dr. Navjot Kaur
+Designation: Assistant Professor, Plaksha University
+Area of Expertise:
+Point-of-care diagnostics, Sustainability, Stakeholder Engagement and Public Policy
+Research Interests:
+• Sustainable agriculture
+• Responsible research and innovation
+• Antimicrobial resistance
+• STEM education research
+Education:
+PhD in Chemical Engineering, Indian Institute of Science, Bangalore
+Past Associations:
+• Research Scientist, Dr. Reddy’s Lab, Hyderabad, India
+• Science Conversationalist at The Pseudo Doctor
+
+Name: Dr. Nitin Upadhyaya
+Designation: Assistant Professor, Plaksha University
+Area of expertise:
+>Physics
+Research Interests:
+>Condensed matter
+>Mathematical models of learning and decision making
+Education:
+>PhD in Physics, Lorentz Institute for Theoretical Physics, University of Leiden, Netherlands
+Past Associations:
+>Postdoctoral Research Staff, University of Chicago, USA
+>Faculty, FLAME University, Pune, India
+>Lecturer of Applied Math and Postdoctoral Fellow, Harvard University, USA
+
+Name: Dr. Prashanth Suresh Kumar
+Designation: Associate Director, PhD Program, Plaksha University
+Area of Expertise:
+Water Technology
+Research Interests:
+>Wastewater treatment
+>Wastewater effluent polishing
+>Reversible adsorption
+>Nutrient recovery from wastewater
+>Circular economy in water sector
+Education:
+>Ph.D. in Environmental Biotechnology, Delft University of Technology, The Netherlands
+﻿Past Associations:
+>Project Manager Educations Program, Wetsus, European Centre of Excellence for Sustainable Water Technology, The Netherlands
+>Research Associate, Department of Biotechnology, Lund University, Sweden
+
+Name: Dr. Rucha Joshi
+Designation: Assistant Professor, Plaksha University
+Area of Expertise:
+Engineering Education, Tissue Engineering, Drug Delivery
+Research Interests:
+>Engineering education
+>Soft tissue biograft design
+>Drug Delivery
+>Biomaterials
+>Regenerative medicine
+Education:
+>Ph.D. in Biomedical Engineering, Purdue University, USA
+﻿Past Associations:
+>Assistant Professor of Teaching, Biomedical Engineering, UC Davis
+>Post-Doctoral Researcher, Biomedical Engineering, Purdue University
+
+Name: Dr. Rudra Pratap
+Designation: Founding Vice Chancellor, Plaksha University
+﻿Area of Expertise:
+MEMS Technology, Mechanics and Mechanobiology
+Research Interests:
+>Microelectromechanical Systems
+>﻿Nanoelectromechanical systems
+>Vibroacoustics
+>Bioacoustics
+>Mechano-biology
+>Computational mechanic
+Education:
+>Ph.D. in Theoretical and Applied Mechanics, Cornell University
+Past Associations:
+>Deputy Director, IISc Bangalore
+>Founding Chairperson & Professor, Centre for Nano Science and Engineering (CeNSE), IISc Bangalore
+>Lecturer, Cornell University, USA, 1994 – 1996
+
+Name: Dr. Saikat Chakraborty
+Designation: Faculty Advisor, Global Engagements (USA), Plaksha University
+Designation: Professor, Plaksha University
+Area of Expertise:
+Bioenergy, Computational Bioengineering
+Research Interests:
+>Algal Biotechnology
+>Lignocellulosic Biofuels
+>Sustainable Biofactories
+>Computational Multiscale Bioengineering
+Education:
+>Ph.D. in Chemical Engineering, University of Houston, USA
+Past Associations:
+>Associate Professor, Indian Institute of Technology Kharagpur
+>Post-doctoral Fellow, University of Texas Medical School, Houston, USA
+
+Name: Dr. Sandeep Manjanna
+Designation: Assistant Professor, Plaksha University
+Area of Expertise:
+Robotics and Applied Machine Learning
+Research Interests:
+>Robotics for Marine and Agriculture
+>Path Planning
+>Reinforcement Learning
+>Adaptive Sampling for Environmental Monitoring
+Education:
+Ph.D in Computer Science, McGill University, Canada
+Past Associations:
+Postdoctoral Researcher at GRASP Labs, University of Pennsylvania, USA.
+
+Name: Dr. Sanjay Kumar Bose
+Designation: Professor, Plaksha University
+﻿Area of Expertise:
+Computer Networks & Queueing Systems
+Research Interests:
+>Modeling, Simulation and Analysis of Communication Networks
+>Performance of WDM Systems
+>ATM Networks
+>Queuing Networks
+>Network Applications
+>Multiple Access Schemes
+>Mobile Satellite Systems
+>Communication & Queueing Related Software Development
+Education:
+>Ph.D. in Electrical Engineering, Stony Brook University, NY, USA
+Past Associations:
+>Professor, Electrical Engineering, IIT Guwahati
+>Professor, Electrical Engineering, IIT Kanpur
+>Associate Professor, School of Electrical and Electronic Engineering, NTU Singapore
+
+Name: Dr. Saumya Jetley
+Designation: Associate Director of Academics, Technology Leaders Program
+Designation: Assistant Professor, Plaksha University
+Area of Expertise:
+Computer Vision, Applied Machine Learning, Data Analytics
+Research Interests:
+>Computer Vision
+>Applied Machine Learning (incl. Robust/Safe AI)
+>Causal Reasoning
+>AI for Social Good
+Education:
+>Ph.D. in Computer Vision and Machine Learning Algorithms, University of Oxford
+Past Associations:
+>Postdoctoral Research Scientist, TAU Team, INRIA - Paris (Saclay)
+>Visiting Research Scientist, Five AI Limited
+
+Name: Dr. Shashank Tamaskar
+Designation: Associate Professor, Plaksha University
+Area of Expertise:
+Robotic autonomy, Vision based robot navigation
+Research Interests:
+>Multi-Agent Robotic Path Planning & Control
+>Flexible Robotic Control & Manipulation
+Education:
+>Ph.D. in Aeronautics and Astronautics, Purdue University, USA
+Past Associations:
+>R&D Research Scientist & Project Manager, Siemens Technology, USA
+>Associate Research Scientist, School of Aeronautics and Astronautics, Purdue University, USA
+>Technical Specialist, Advanced Dynamics and Control Systems, Cummins Inc.
+
+Name: Dr. Shashikant Pawar
+Designation: Assistant Professor, Plaksha University
+﻿Area of Expertise:
+Fluid Dynamics and Heat Transfer.
+Research Interests:
+>Buoyancy driven (environmental) turbulent flows
+>Fluid dynamics and heat transfer of Bio-inspired systems
+>Light propagation in turbulent media
+>Engineering Education
+Education:
+PhD in Mechanical Engineering, Indian Institute of Science, Bangalore.
+Past Associations:
+>Faculty member, Department of Mechanical Engineering, Don Bosco Institute of Technology, Mumbai.
+>Research Associate, Fluid Mechanics Laboratory, IISc, Bangalore.
+>Executive Engineer, Heavy Engineering Division, Larsen & Toubro Ltd., Mumbai.
+
+Name: Dr. Srikant Srinivasan
+Designation: Associate Dean, Academics, Plaksha University
+Area of Expertise:
+>Nanoelectronics
+>IoT systems
+Research Interests:
+>Precision agriculture
+>Computer vision
+>Machine learning
+>Beyond-CMOS devices
+Education:
+>Ph.D. in Electrical & Computer Engineering, Purdue University, USA
+>M.S. in  Electrical & Computer Engineering, University of Cincinnati, USA
+>BTech in Electronics & Communications Engineering, VNR-VJIET, JNTU - Hyderabad, India
+Past Associations:
+>Associate Dean (courses), Indian Institute of Technology Mandi
+>Associate Professor, Indian Institute of Technology Mandi
+>Assistant Professor, Indian Institute of Technology Mandi
+>Adjunct Assistant Professor, Plant Sciences Institute, Iowa State University, USA
+>Post-doctoral Fellow/ Data Scientist, Iowa State University, USA
+
+Name: Dr. Subhasis Ray
+Designation: Assistant Professor, Plaksha University
+Area of Expertise:
+Computational and experimental Neuroscience
+﻿
+Research Interests:
+>Chemical senses and sensory-guided behavior
+>Neurophysiology and neural networks in animal brains
+>Computational modeling of biological neural networks
+>﻿Tools for simulation and data analysis in Biology
+Education:
+>Ph.D. in Biology, NCBS, TIFR, Bangalore, India
+>B.E. in Computer Science and Engineering, Jadavpur University, Kolkata, India
+Past Associations:
+>Postdoctoral Fellow, NICHD, National Institutes of Health (NIH), Bethesda, USA
+>﻿Software Engineer, IBM India Pvt. Ltd., Kolkata, India
+
+Name: Dr. Sunita Chauhan
+Designation: Faculty Advisor, Global Engagements (Europe & APAC), Plaksha University
+Designation: 
+﻿Area of Expertise:
+Medical and Surgical Robotics, Robotics and Automated Systems, Cyber Physical Systems
+Research Interests:
+>Medical/Surgical Robotics, Biomechatronics
+>Robotics, Mechatronics and AI - in Structural Healthcare, Agriculture, Smart Buildings, Sports Engineering etc.
+>Ultrasound - Imaging & Diagnostics (Medical/Industrial), Therapeutics and Surgical Ultrasound
+>Flexible and Soft Robotics - configuration system development for applications in Industrial and Healthcare systems
+>Intelligent/Smart Systems - Sensing, Monitoring, Manufacturing
+Education:
+>Ph.D. and DIC (Medical Robotics) from Dept. of Mechanical Engineering, Imperial College of Science, Technology and Medicine, London, United Kingdom
+Past Associations:
+>Director, Robotics and Mechatronics Engineering, Monash University, Australia
+>Professor, Dept. of Mechanical and Aerospace Engineering, Monash University, Australia
+>Assoc. professor (Mechatronics & Design); Asst. prof. (Systems & Eng. Management), School of Mechanical and Aerospace Engineering, NTU, Singapore
+>Academic, Visiting Fellowships/Roles, Newcastle University, Newcastle upon Tyne, UK, Klinikum Mannheim, Karl Ruprecht Uni. of Heidelberg, Germany, Kings College, London, NTU, Singapore
+>Director R&D, Robotics and High Tech Instruments (P) Ltd. Delhi.
+>SRA (CSIR), IIT Delhi, Scientist Fellow, CSIO, RA, National Physical Laboratory, Various other Research and visiting positions, India
+
+Name: Dr. Swagata Halder
+Area of Expertise:
+>DNA repair and DNA damage response
+Research Interests:
+>DNA-protein crosslinks repair
+>Ubiquitin proteasome system in DNA damage response
+>Replication fork reversal and protection
+Education:
+>DPhil, University of Oxford, Oxford, UK
+Past Associations:
+>Institute of Veterinary Pharmacology and Toxicology, University of Zurich, Zurich, Switzerland
+>Post-doctoral Fellow, University of Oxford, Oxford, UK
+>Scientist, Institute for Research in Biomedicine (IRB), Bellinzona, Switzerland
+
+Name: Dr. Tanmoy Majilla
+Designation: Assistant Professor, Plaksha University
+Area of Expertise:
+Financial Economics, Labor Economics, Macroeconomics, Management
+Research Interests:
+>Financial Economics
+>Macrofinance
+>Financial Disclosure and Reporting
+>Labor Economics
+>Education
+>Development Economics
+>Quantitative Marketing
+>Strategic Management
+Education:
+>Ph.D. in Economics, Erasmus University Rotterdam
+Past Association:
+>Assistant Professor of Economics (Business Environment), Indian Institute of Management Lucknow
+
+Name: Dr. Tapas Pandit
+Designation: Assistant Professor, Plaksha University
+Area of Expertise::
+>Quantum Computing and Cryptography
+Research Interests::
+>Post-Quantum Cryptography
+>Signatures in Multivariate setting
+>Lattice-Based Signatures and Key-Exchange protocols
+>Quantum Cryptanalysis
+>Blockchain
+>Online Voting Scheme
+Education::
+>M.Tech and Ph.D. in Computer Science, ISI, Kolkata, India
+Past Associations::
+>Assistant Professor, SRM University, AP
+>Postdoctoral Researcher, IISc Bangalore
+>Assistant Professor, IIIT Sri City, Chittoor
+
+Name: Dr. Vishal Garg
+Designation: Dean of Research, Plaksha University
+Designation: Director, Indorama Ventures Center for Clean Energy
+Designation: Professor, Plaksha University
+Designation: 
+Area of Expertise:
+Energy Efficient and Smart Buildings
+Research Interests:
+>Building Energy Informatics
+>Smart Energy Homes
+>Cool Surfaces for Urban Heat Island Mitigation
+>Decarbonising Residential AC Energy Consumption
+Education:
+>PhD from the Centre for Energy Studies, IIT Delhi
+Past Associations:
+>Founder Head and Professor, Centre for IT in Building Science, IIIT Hyderabad
+
+Name: Dr. Vivek Deulkar
+Designation: Assistant Professor, Plaksha University
+Area of Expertise:
+Sustainable carbon efficient energy systems, smart grids, battery storage management, renewable energy and its reliable integration
+Research Interests:
+>Managing renewable uncertainties via battery storage systems
+>Stochastic modeling
+>Reinforcement learning
+>Machine learning
+>Control & Optimization
+Education:
+>Ph.D., Electrical Engineering, IIT Bombay
+>M.Tech. Control and Computing, IIT Bombay
+>B.Tech. Electronics and Communication, VNIT Nagpur
+Past Associations:
+>Postdoctoral research associate, College of Information and Computer Sciences (CICS), University of Massachusets (UMass), Amherst
+>Manager, Engineering Research Center, Tata Motors Ltd.
+
