@@ -14,6 +14,7 @@ from langchain.text_splitter import TokenTextSplitter
 from langchain.vectorstores import FAISS
 from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from langchain.document_loaders import TextLoader
+from openai_api_key import OPENAI_API_KEY
 #importing the os
 
 #loading the excel files
@@ -32,7 +33,7 @@ all_splits = text_splitter_character.split_documents(docs)
 #db = FAISS.from_documents(text_character, OpenAIEmbeddings())
 
 # create the open-source embedding function
-vectorstore = Chroma.from_documents(documents=all_splits,embedding=OpenAIEmbeddings())
+vectorstore = Chroma.from_documents(documents=all_splits,embedding=OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY))
 
 query = "Who is Rucha Joshi"
 docs =vectorstore.similarity_search(query)
