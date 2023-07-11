@@ -14,7 +14,7 @@ from langchain.text_splitter import TokenTextSplitter
 from langchain.vectorstores import FAISS
 from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from langchain.document_loaders import TextLoader
-from openai_api_key import OPENAI_API_KEY
+from config import OPENAI_API_KEY
 #importing the os
 
 #loading the excel files
