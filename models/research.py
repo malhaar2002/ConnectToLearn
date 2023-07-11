@@ -1,4 +1,6 @@
 import openai
+import sys
+sys.path.append('../config.py')
 from config import OPENAI_API_KEY
 
 # Set up your OpenAI GPT API credentials

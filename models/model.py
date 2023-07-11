@@ -1,5 +1,4 @@
 #importing langchain modules
-
 from langchain.document_loaders import UnstructuredExcelLoader
 from langchain.vectorstores import Chroma
 from langchain.prompts import PromptTemplate
@@ -14,8 +13,9 @@ from langchain.text_splitter import TokenTextSplitter
 from langchain.vectorstores import FAISS
 from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from langchain.document_loaders import TextLoader
+import sys
+sys.path.append('../config.py')
 from config import OPENAI_API_KEY
-#importing the os
 
 #loading the excel files
 loader = UnstructuredExcelLoader(
