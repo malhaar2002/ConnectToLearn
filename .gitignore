@@ -1,3 +1,4 @@
-openai_api_key.py
-__pycache__/
+config.py
+flask-server/__pycache__/
 .chroma/
+client/node_modules/
