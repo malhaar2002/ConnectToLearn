@@ -1,4 +1,4 @@
-config.py
+flask-server/config.py
 flask-server/__pycache__/
 .chroma/
 client/node_modules/

@@ -12,7 +12,7 @@ const MessageParser = ({ children, actions }) => {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ message: message }),
+        body: JSON.stringify({ user_message: message }),
       });
 
       const data = await response.json();
@@ -26,7 +26,7 @@ const MessageParser = ({ children, actions }) => {
   const parse = async (message) => {
     setMessage(message);
     const botResponse = await sendMessageToBackend()
-    actions.handleMessage(botResponse.research);
+    actions.handleMessage(botResponse.bot_message);
   };
 
   return (
