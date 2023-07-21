@@ -3,6 +3,7 @@
 ConnectToLearn is an innovative platform designed to leverage your completed courses, performance records, and areas of curiosity to suggest relevant projects. This tool aims to connect you with the right people who can help validate and execute these projects, including faculty members, founders, NGOs, and organizations.
 
 ### Features
+
 <ul>
   <li><b>Course-based Recommendations:</b> The tool analyzes the courses you have completed and identifies areas where you have performed well. It utilizes this information to suggest projects that align with your knowledge and skills.</li>
   
