@@ -21,7 +21,7 @@ function App() {
       const userID = sessionStorage.getItem("userID");
       if (userID) {
         // Send a request to the server to inform about the user leaving
-        fetch(`/${userID}/leave`, {
+        fetch(`/api/${userID}/leave`, {
           method: "POST",
         });
       }
