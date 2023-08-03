@@ -1,11 +1,11 @@
 import React from 'react';
-import { useState } from 'react';
 
 const MessageParser = ({ children, actions }) => {
 
-  const [message, setMessage] = useState('');
+  const parse = async (message) => {
+    let botResponse = { bot_message: "Sorry, there was some error." }
 
-  const sendMessageToBackend = async () => {
+    // send a message to the server and update botResponse with the response
     try {
       const response = await fetch('/message', {
         method: 'POST',
@@ -14,18 +14,12 @@ const MessageParser = ({ children, actions }) => {
         },
         body: JSON.stringify({ user_message: message }),
       });
-
-      const data = await response.json();
-      console.log(data)
-      return data;
+      botResponse = await response.json();
     } catch (error) {
       console.error('Error:', error);
     }
-  };
 
-  const parse = async (message) => {
-    setMessage(message);
-    const botResponse = await sendMessageToBackend()
+    // call the handleMessage function from the ActionProvider component
     actions.handleMessage(botResponse.bot_message);
   };
 
