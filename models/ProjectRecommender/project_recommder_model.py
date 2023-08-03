@@ -3,8 +3,7 @@ from langchain.memory import ConversationBufferMemory
 from config import OPENAI_API_KEY
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
-from langchain import OpenAI
-
+from langchain.chat_models import ChatOpenAI
 
 #return prompt to be used by the for the chain
 def prompt_factory():
@@ -84,7 +83,7 @@ def llm_chain_factory(template):
     )
     memory = ConversationBufferMemory(memory_key="chat_history")
     llm_chain = LLMChain(
-    llm=OpenAI(),
+    llm=ChatOpenAI(model_name="gpt-4"),
     prompt=prompt,
     verbose=True,
     memory=memory,
