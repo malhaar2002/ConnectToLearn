@@ -7,7 +7,9 @@ const MessageParser = ({ children, actions }) => {
 
     // send a message to the server and update botResponse with the response
     try {
-      const response = await fetch('/message', {
+      const userID = sessionStorage.getItem('userID');
+      const url = `/api/${userID}/message`;
+      const response = await fetch(url, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

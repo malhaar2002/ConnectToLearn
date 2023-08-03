@@ -1,4 +1,5 @@
 flask-server/config.py
 models/config.py
 flask-server/__pycache__/
+flask-server/app.log
 .chroma/
