@@ -2,3 +2,5 @@ flask-server/config.py
 models/config.py
 flask-server/__pycache__/
 .chroma/
+*config.py
+config*

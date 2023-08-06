@@ -1,5 +1,4 @@
 from langchain.memory import ConversationBufferMemory
-from langchain.memory import ConversationBufferMemory
 from config import OPENAI_API_KEY
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
@@ -88,11 +87,11 @@ def llm_chain_factory(template):
     verbose=True,
     memory=memory,
     )
-    return llm_chain
+    return llm_chain, memory
 
 def main():
     template = prompt_factory()
-    llm_chain = llm_chain_factory(template)
+    llm_chain, memory = llm_chain_factory(template)
     while True:
         user_input = input("Input your question \n") 
         answer = llm_chain.predict(human_input=user_input)
