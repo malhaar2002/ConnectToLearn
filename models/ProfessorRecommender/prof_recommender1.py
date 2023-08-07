@@ -44,14 +44,14 @@ def embed_documents(splitted_document):
 #Template for the model one
 def template_1():
     template = """You are owned by Plaksha University. You help with connecting user who have a particular interest in a topic to a Professor who have experience in such topic. You also can answer questions regarding a professor. When you are asked about a professor, ensure you provide a well detailed answer to it.
-    Ensure you go through the below context before answering a question, if you do not know the answer just tell the user that you do not have any information about that. If you are asked to provide or recommend a professor in a field, check for more than one professor in that field. Only return one professor name if there is only one professor in such field
+    Ensure you go through the below context before answering a question, if you do not know the answer just tell the user that you do not have any information about that.
 
     You can only get the answer from the context:-
     {context}
-    Also, get a if there is not professor in the similar field, recommend a professor that his field is similar
+
     Question: {question}
     Helpful Answer:"""
-    QA_CHAIN_PROMPT = PromptTemplate(input_variables=["context","question"],template=template,)
+    QA_CHAIN_PROMPT = PromptTemplate(input_variables=["context","question"], template=template,)
     return QA_CHAIN_PROMPT
 
 def retrieval(QA_CHAIN_PROMPT, vectorstore):
@@ -75,21 +75,23 @@ def memory():
 
 def question_factory(prof_info_1, prof_info_2, conversational_memory):
     system_message = """
-        "Always use all the tool provided"
-        "pass in any question I passed to you directly to the tools do not change anything"
-        "You should get a professor name"
-        "If you do not get the answer through a tool, use the second a one"
-        """
+            You are a Virtual Assistant to Plaksha University"
+            "Always use all the tool provided"
+            "You should help use with question about a professor or question relating to the recommending a professor to on a course."
+            "pass in any question I passed to you  directly to the tools do not change anything"
+            "You should only talk within the context of problem."
+            "You should use the two tools for the answer"
+            """
     tools = [
-        Tool(
-            name="prof_info_1",
+         Tool(
+            name="qa_prof_1",
             func=prof_info_1.run,
-            description="The first Tool to answer questions ",
+            description="Use this tool recarding recommedation any question",
         ),
         Tool(
             name="qa-prof_2",
             func=prof_info_2.run,
-            description="Use this tool when there is not answer from the first one",
+            description="This is a fallback information about professor. Use this tool if the 'Primary Search' tool does not provide the required information.",
         )
     ]
     executor = initialize_agent(
@@ -100,7 +102,7 @@ def question_factory(prof_info_1, prof_info_2, conversational_memory):
         agent_kwargs={"system_message": system_message},
         verbose=True,
     )
-
+    return executor
 
 def main():
     #Load documents
@@ -113,16 +115,32 @@ def main():
     vectorstore = embed_documents(all_splits)
 
     #prompt
-    QA_CHAIN_PROMPT = template_1
+    QA_CHAIN_PROMPT = template_1()
 
     #setting up first retrieval
-    qa_chain = retrieval(QA_CHAIN_PROMPT, vectorstore)
+    qa_chain = retrieval(QA_CHAIN_PROMPT, vectorstore)  
 
-    qexecutor = question_factory(qa_chain, qa_chain, memory())    
-
-    # Loop
+    
+    # Getting the first question from the user
     user_input = input("Input your question \n") 
-    answer = executor.run(human_input=user_input)
-    print(answer
+
+    # Creating the first model based on the user query
+    prof = search_relevant_doc(vectorstore, user_input)
+    prof_retrieval = embed_documents(prof)
+    prof_info =  retrieval(QA_CHAIN_PROMPT, prof_retrieval)
+    #Loop 
+    executor = question_factory(qa_chain, prof_info, memory()) 
+
+    # running the first input
+    executor.run(user_input)
+    answer = executor.run(user_input)
+    print(answer)
+
+    while True:
+        user_input = input("Input your question \n") 
+        answer = executor.run(user_input)
+        print(answer)
+
+
 if __name__ == "__main__":
     main()
