@@ -10,7 +10,7 @@ const Options = (props) => {
     },
     {
       text: "Recommend Mentor",
-      handler: () => props.actionProvider.handleMentorRecommender,
+      handler: props.actionProvider.handleMentorRecommender,
       id: 2,
     },
   ];
