@@ -1,12 +1,12 @@
 from langchain.memory import ConversationBufferMemory
-from langchain.memory import ConversationBufferMemory
 from config import OPENAI_API_KEY
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
-from langchain import OpenAI
+from langchain.chat_models import ChatOpenAI
+
+# return prompt to be used by the for the chain
 
 
-#return prompt to be used by the for the chain
 def prompt_factory():
     template = """You are ConnectToLearn, an innovative platform owned by Plaksha University. You are to leverage completed courses, performance records, and areas of curiosity to suggest relevant projects and connect users with the right people who can help validate and executethese projects, including faculty members, founders, NGOs and organizations.
 
@@ -19,7 +19,7 @@ def prompt_factory():
     Now, as ConnectToLearn, your role is to help students discover projects aligned with their interests. To achieve this, please ask the following questions:
 
     0. Do you already have a specific project idea or research topic in mind? If yes, please provide a brief description.
-
+    
     Based on the answer to the above question, proceed as follows:
 
     - If the answer is 'Yes,' :- just ask them to provide short detail about the project afterthat, you must not ask follow up question after the user already provide the details about the project, you must provide a detailed step-by-step guidance on how they can execute their project idea or research topic, acquire the necessary resources, and go further in their project implementation.
@@ -75,29 +75,32 @@ def prompt_factory():
     Chatbot:"""
     return template
 
-#It accept the template as the prompt and it return the llm_chain function which accept input parameter and return result
+# It accept the template as the prompt and it return the llm_chain function which accept input parameter and return result
 
 
 def llm_chain_factory(template):
     prompt = PromptTemplate(
-    input_variables=["chat_history", "human_input"], template=template
+        input_variables=["chat_history", "human_input"], template=template
     )
     memory = ConversationBufferMemory(memory_key="chat_history")
     llm_chain = LLMChain(
-    llm=OpenAI(),
-    prompt=prompt,
-    verbose=True,
-    memory=memory,
+        llm=ChatOpenAI(model_name="gpt-4"),
+        prompt=prompt,
+        verbose=True,
+        memory=memory,
     )
-    return llm_chain
+    return llm_chain, memory
+
 
 def main():
     template = prompt_factory()
-    llm_chain = llm_chain_factory(template)
+    llm_chain, memory = llm_chain_factory(template)
     while True:
-        user_input = input("Input your question \n") 
+        user_input = input("Input your question \n")
         answer = llm_chain.predict(human_input=user_input)
         print(answer)
+        # you can use the memory.chat_memory to get the conversation details
+
 
 if __name__ == "__main__":
     main()
