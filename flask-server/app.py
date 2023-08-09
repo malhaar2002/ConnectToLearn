@@ -7,8 +7,8 @@ from log_config import *
 app = Flask(__name__)
 llm_chains = {}
 
-@app.route('/api/<string:userID>/message', methods=['POST'])
-def home(userID):
+@app.route('/api/<string:userID>/project_recommender', methods=['POST'])
+def project_recommender(userID):
 	user_input = request.get_json()["user_message"]
 	llm_chain = llm_chains.get(userID, None)
 	if llm_chain is None:
@@ -24,6 +24,10 @@ def home(userID):
 		result = "Sorry, something went wrong. If you are the developer, please check the logs for errors."
 	json_result = {"bot_message": result}
 	return json_result
+
+@app.route('/api/<string:userID>/mentor_recommender', methods=['POST'])
+def mentor_recommender(userID):
+	pass
 
 @app.route('/api/<string:userID>/leave', methods=['POST'])
 def handle_leave(userID):
