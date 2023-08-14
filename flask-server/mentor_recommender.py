@@ -14,7 +14,7 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.memory import ConversationBufferMemory
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
-llm = ChatOpenAI(model_name="gpt-4", temperature=0)
+llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
 
 # founder
 
