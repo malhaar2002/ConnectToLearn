@@ -126,6 +126,7 @@ def question_factory(founder_info, prof_info, conversational_memory):
         agent_kwargs={"system_message": system_message},
         verbose=True,
         handle_parsing_errors=True,
+        max_execution_time=2,
     )
     return executor
 
