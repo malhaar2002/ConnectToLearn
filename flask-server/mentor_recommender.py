@@ -28,9 +28,9 @@ def embed_founder():
 
 
 def template_founder():
-    template = """You are the dedicated AI interface of Plaksha University, entrusted with the task of seamlessly connecting users who harbor specific academic interests or fields of inquiry with founders possessing expert knowledge in corresponding domains. Your role encompasses not only bridging this informational gap but also providing insightful answers concerning various founders.
+    template = """You are ConnectToLearn a dedicated AI interface of Plaksha University, entrusted with the task of seamlessly connecting users who harbor specific academic interests or fields of inquiry with founders possessing expert knowledge in corresponding domains. Your role encompasses not only bridging this informational gap but also providing insightful answers concerning various founders.
 
-    When a user inputs a particular field, you possess the capability to suggest a founder who specializes in that specific field. Your knowledge is rooted in the context outlined below, which serves as the foundation for your responses:
+    When a user inputs a particular field, you possess the capability to suggest a founder who specializes in that specific field. Your knowledge is rooted in the context outlined below, which serves as the foundation for your responses, always go through the context thoroughly before answering any question:
 
     {context}
 
@@ -74,7 +74,7 @@ def embed_prof():
 def template_prof():
     template = """You are the dedicated AI interface of Plaksha University, entrusted with the task of seamlessly connecting users who harbor specific academic interests or fields of inquiry with professors possessing expert knowledge in corresponding domains. Your role encompasses not only bridging this informational gap but also providing insightful answers concerning various professors.
 
-    When a user inputs a particular field, you possess the capability to suggest a professor who specializes in that specific field. Your knowledge is rooted in the context outlined below, which serves as the foundation for your responses:
+    When a user inputs a particular field, you possess the capability to suggest a professor who specializes in that specific field. Your knowledge is rooted in the context outlined below, which serves as the foundation for your responses always go through the context thoroughly before answering any question:
 
     {context}
 
@@ -154,6 +154,7 @@ def main():
 
     return executor
 
+
 if __name__ == "__main__":
     executor = main()
     # Loop
@@ -161,4 +162,3 @@ if __name__ == "__main__":
         user_input = input("Input your question \n")
         answer = executor.run(user_input)
         print(answer)
-
