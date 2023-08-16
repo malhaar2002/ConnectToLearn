@@ -105,3 +105,26 @@
 2023-08-09 20:21:14,556 [INFO] 127.0.0.1 - - [09/Aug/2023 20:21:14] "POST /api/33fcb2c8-e6d3-499d-9946-48ee20b47974/leave HTTP/1.1" 200 -
 2023-08-09 20:22:03,013 [INFO] 127.0.0.1 - - [09/Aug/2023 20:22:03] "POST /api/33fcb2c8-e6d3-499d-9946-48ee20b47974/leave HTTP/1.1" 200 -
 2023-08-09 20:22:58,530 [INFO] 127.0.0.1 - - [09/Aug/2023 20:22:58] "POST /api/33fcb2c8-e6d3-499d-9946-48ee20b47974/leave HTTP/1.1" 200 -
+2023-08-16 12:24:44,156 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-16 12:24:44,156 [INFO] [33mPress CTRL+C to quit[0m
+2023-08-16 12:24:44,168 [INFO]  * Restarting with watchdog (inotify)
+2023-08-16 12:24:46,085 [WARNING]  * Debugger is active!
+2023-08-16 12:24:46,206 [INFO]  * Debugger PIN: 351-170-050
+2023-08-16 12:29:47,643 [INFO] 127.0.0.1 - - [16/Aug/2023 12:29:47] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/project_recommender HTTP/1.1" 200 -
+2023-08-16 12:30:27,868 [INFO] 127.0.0.1 - - [16/Aug/2023 12:30:27] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 12:36:09,557 [INFO] 127.0.0.1 - - [16/Aug/2023 12:36:09] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 12:37:49,736 [INFO] 127.0.0.1 - - [16/Aug/2023 12:37:49] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 12:44:18,912 [INFO] 127.0.0.1 - - [16/Aug/2023 12:44:18] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 12:44:47,903 [INFO] 127.0.0.1 - - [16/Aug/2023 12:44:47] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/project_recommender HTTP/1.1" 200 -
+2023-08-16 12:49:52,822 [INFO] 127.0.0.1 - - [16/Aug/2023 12:49:52] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 12:57:06,794 [INFO] 127.0.0.1 - - [16/Aug/2023 12:57:06] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:02:20,350 [INFO] 127.0.0.1 - - [16/Aug/2023 13:02:20] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:12:33,477 [INFO] 127.0.0.1 - - [16/Aug/2023 13:12:33] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:17:06,170 [INFO] 127.0.0.1 - - [16/Aug/2023 13:17:06] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:20:20,187 [INFO] 127.0.0.1 - - [16/Aug/2023 13:20:20] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:21:16,225 [INFO] 127.0.0.1 - - [16/Aug/2023 13:21:16] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:22:23,023 [INFO] 127.0.0.1 - - [16/Aug/2023 13:22:23] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:22:40,459 [INFO] 127.0.0.1 - - [16/Aug/2023 13:22:40] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/project_recommender HTTP/1.1" 200 -
+2023-08-16 13:24:06,472 [INFO] 127.0.0.1 - - [16/Aug/2023 13:24:06] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
+2023-08-16 13:24:55,936 [INFO] 127.0.0.1 - - [16/Aug/2023 13:24:55] "POST /api/8bfcedd6-dfc9-4796-a4d1-5af0d3cfc6ec/leave HTTP/1.1" 200 -
