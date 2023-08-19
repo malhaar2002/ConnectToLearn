@@ -18,8 +18,10 @@ def handle_project_recommender(userID):
 		llm_chains[userID] = llm_chain
 	try:
 		result = llm_chain.predict(human_input = user_input)
-	except openai.error.InvalidRequestError:
-		logging.error("InvalidRequestError. Possibly due to limit of api key being exceeded.")
+		if result == "Agent stopped due to iteration limit or time limit.":
+			result = "Sorry, I do not understand. Please try again."
+	except openai.error.InvalidRequestError as e:
+		logging.error(e + " Possibly due to limit of api key being exceeded.")
 		result = "Sorry, I have reached the limit of our conversation (I am a bit of an introvert). Please start a new conversation. If you are the developer, please check the logs for any errors."
 	except Exception as e:
 		logging.error(e)
@@ -36,8 +38,10 @@ def handle_mentor_recommender(userID):
 		executors[userID] = executor
 	try:
 		result = executor.run(user_input)
-	except openai.error.InvalidRequestError:
-		logging.error("InvalidRequestError. Possibly due to limit of api key being exceeded.")
+		if result == "Agent stopped due to iteration limit or time limit.":
+			result = "Sorry, I do not understand. Please try being more descriptive."
+	except openai.error.InvalidRequestError as e:
+		logging.error(e + " Possibly due to limit of api key being exceeded.")
 		result = "Sorry, I have reached the limit of our conversation (I am a bit of an introvert). Please start a new conversation. If you are the developer, please check the logs for any errors."
 	except Exception as e:
 		logging.error(e)

@@ -35,7 +35,7 @@ const ActionProvider = ({ createChatBotMessage, setState, children }) => {
 
   const handleMentorRecommender = () => {
     sessionStorage.setItem("model", "mentor_recommender");
-    createMessage("Great! Please describe your idea / field of interest and I'll try to find the right people for you to connect with");
+    createMessage("Great! You can describe your idea / field of interest and I'll try to find the right people for you to connect with. Please specify whether you are looking for a founder or a professor.");
   };
 
   const handleOptionNotSelected = () => {
