@@ -127,6 +127,7 @@ def question_factory(founder_info, prof_info, conversational_memory):
         verbose=True,
         handle_parsing_errors=True,
         max_iterations=2,
+        early_stopping_method="force"
     )
     return executor
 
