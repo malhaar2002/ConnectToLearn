@@ -15,7 +15,7 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.memory import ConversationBufferMemory
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
-llm = ChatOpenAI(model_name="gpt-4", temperature=0)
+llm = ChatOpenAI(temperature=0)
 
 # founder
 
@@ -104,6 +104,7 @@ def question_factory(founder_info, prof_info, conversational_memory):
            "You are a Virtual Assistant to Plaksha University"
             "You job is to recommend a founder or professor based on the question asked by the user and you can answer question about a professor of founder"
             "Your action input must always be the question which I asked you"
+            "Ask follow up question if you do not understand the questions being asked"
             "Note all founders and professors are always available"
             "You should only talk within the context of problem."
             """
@@ -126,6 +127,7 @@ def question_factory(founder_info, prof_info, conversational_memory):
         memory=conversational_memory,
         agent_kwargs={"system_message": system_message},
         verbose=True,
+        handle_parsing_errors=True,
     )
     return executor
 
