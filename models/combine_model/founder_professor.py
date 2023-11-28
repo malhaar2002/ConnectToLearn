@@ -15,7 +15,7 @@ from langchain.embeddings import OpenAIEmbeddings
 from langchain.memory import ConversationBufferMemory
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
-llm = ChatOpenAI(model_name="gpt-4", temperature=0)
+llm = ChatOpenAI(temperature=0)
 
 # founder
 
@@ -29,9 +29,9 @@ def embed_founder():
 
 
 def template_founder():
-    template = """You are the dedicated AI interface of Plaksha University, entrusted with the task of seamlessly connecting users who harbor specific academic interests or fields of inquiry with founders possessing expert knowledge in corresponding domains. Your role encompasses not only bridging this informational gap but also providing insightful answers concerning various founders.
+    template = """You are ConnectToLearn a dedicated AI interface of Plaksha University, entrusted with the task of seamlessly connecting users who harbor specific academic interests or fields of inquiry with founders possessing expert knowledge in corresponding domains. Your role encompasses not only bridging this informational gap but also providing insightful answers concerning various founders.
 
-    When a user inputs a particular field, you possess the capability to suggest a founder who specializes in that specific field. Your knowledge is rooted in the context outlined below, which serves as the foundation for your responses:
+    When a user inputs a particular field, you possess the capability to suggest a founder who specializes in that specific field. Your knowledge is rooted in the context outlined below, which serves as the foundation for your responses, always go through the context thoroughly before answering any question:
 
     {context}
 
@@ -75,7 +75,7 @@ def embed_prof():
 def template_prof():
     template = """You are the dedicated AI interface of Plaksha University, entrusted with the task of seamlessly connecting users who harbor specific academic interests or fields of inquiry with professors possessing expert knowledge in corresponding domains. Your role encompasses not only bridging this informational gap but also providing insightful answers concerning various professors.
 
-    When a user inputs a particular field, you possess the capability to suggest a professor who specializes in that specific field. Your knowledge is rooted in the context outlined below, which serves as the foundation for your responses:
+    When a user inputs a particular field, you possess the capability to suggest a professor who specializes in that specific field. Your knowledge is rooted in the context outlined below, which serves as the foundation for your responses always go through the context thoroughly before answering any question:
 
     {context}
 
@@ -104,6 +104,7 @@ def question_factory(founder_info, prof_info, conversational_memory):
            "You are a Virtual Assistant to Plaksha University"
             "You job is to recommend a founder or professor based on the question asked by the user and you can answer question about a professor of founder"
             "Your action input must always be the question which I asked you"
+            "Ask follow up question if you do not understand the questions being asked"
             "Note all founders and professors are always available"
             "You should only talk within the context of problem."
             """
@@ -126,6 +127,7 @@ def question_factory(founder_info, prof_info, conversational_memory):
         memory=conversational_memory,
         agent_kwargs={"system_message": system_message},
         verbose=True,
+        handle_parsing_errors=True,
     )
     return executor
 

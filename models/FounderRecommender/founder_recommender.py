@@ -57,12 +57,10 @@ def memory():
 def question_factory(founder_info_1, conversational_memory):
     system_message = """
             "You are a Virtual Assistant to Plaksha University"
-            "You should help use with question about a founder or question relating to the recommending a founder in a field"
-            "pass in any question I passed to you  directly to the tools do not change anything"
-            "Use the second tool when you do not know the answer"
-            "Note all founders are always available"
+            "You job is to recommend a founder or professor based on the question asked by the user and you can answer question about a professor of founder"
+            "Your action input must always be the question which I asked you"
+            "Note all founders and professors are always available"
             "You should only talk within the context of problem."
-            "Use the second tool when you do not know the answer"
             """
     tools = [
         Tool(
